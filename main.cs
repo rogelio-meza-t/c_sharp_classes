@@ -20,6 +20,15 @@ namespace Poligonos{
             c.SetValores(2);
             Console.WriteLine("Area Seteada Circulo: "+c.CalcularArea());
             
+            Console.WriteLine();
+            
+            Triangulo t = new Triangulo();
+            t.SetValoresDefecto();
+            Console.WriteLine("Area Defecto Triangulo: " + t.CalcularArea());
+            
+            t.SetValores(2);
+            Console.WriteLine("Area Seteada Triangulo: "+t.CalcularArea());
+            
         }
     }
 }

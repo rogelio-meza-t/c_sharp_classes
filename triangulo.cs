@@ -5,14 +5,14 @@ namespace Poligonos{
         double largo;
         
         public double CalcularArea(){
-            return (Math.sqrt(3) / 4 ) * Math.Pow(largo, 2);
+            return (Math.Sqrt(3) / 4 ) * Math.Pow(largo, 2);
         }
         
         public double CalcularPerimetro(){
             return 3*largo;
         }
         
-        public void SetvaloresDefecto(){
+        public void SetValoresDefecto(){
             largo = 3.1;
         }
         
