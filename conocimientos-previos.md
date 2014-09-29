@@ -28,6 +28,7 @@ namespace EjemploHolaMundo
    }
 }
 ```
+<span class="octicon octicon-file-code"></span> **Código**: [Acá](../blob/master/session_00/ejemplo0.cs)
 
 El resultado de la ejecución del programa anterior es:
 ```
