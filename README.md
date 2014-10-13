@@ -5,3 +5,4 @@ Este es un tutorial básico de C#. Está pensado para principiantes que no tiene
 
 ## Sesiones
 0. [Conocimientos previos](conocimientos-previos.md)
+1. [Estructura básica](estructura-basica.md)
